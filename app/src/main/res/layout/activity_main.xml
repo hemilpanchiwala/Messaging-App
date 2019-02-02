@@ -147,7 +147,7 @@
         android:layout_height="wrap_content"
         android:layout_width="wrap_content"
         app:layout_anchor="@id/appbar"
-        app:layout_anchorGravity=""
+        app:layout_anchorGravity="bottom|end|right"
         android:src="@drawable/letscht"
         android:layout_margin="16dp"
         android:clickable="true"/>
