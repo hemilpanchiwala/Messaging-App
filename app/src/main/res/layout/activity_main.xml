@@ -19,7 +19,7 @@
             app:layout_scrollFlags="scroll|exitUntilCollapsed"
             android:fitsSystemWindows="true"
             app:contentScrim="#000"
-            app:expandedTitleMarginStart="48dp"
+            app:expandedTitleMarginStart="18dp"
             app:expandedTitleMarginEnd="64dp">
 
             <ImageView
